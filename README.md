@@ -1,1 +1,1 @@
-# Sentinment-Analysis-With-BERT
+# Sentiment-Analysis-With-BERT
